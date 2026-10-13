@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: John Alfred Ofalla
+Course: Information Technology
+Year Level: 2nd Year
+Favorite Programming Language: Python
+Career Goal: Software Engineer
